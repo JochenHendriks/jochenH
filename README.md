@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jochen Hendriks</h1>
-<h3 align="center">A passionate Professional Scrum Master</h3>
+# Hi 👋, I'm Jochen Hendriks
+### A passionate Professional Scrum Master
 
-- 👨‍💻 All of my projects are available at [https://jochenhendriks.nl](https://jochenhendriks.nl)
+- 👨‍💻 All of my projects are available at [my personal website](https://jochenhendriks.nl)
 
-- 💬 Ask me about **Scrum, Agile, KanBan**
+- 💬 Ask me about Scrum, Agile, KanBan
 
-- 📫 How to reach me **jochen@the-scrummaster.nl**
+- 📫 How to reach me jochen@the-scrummaster.nl
